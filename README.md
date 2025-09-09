@@ -23,7 +23,7 @@ I focus on building responsive websites, learning IT system operations, and deve
 
 ## 📂 Projects  
 - 🎮 **Treasure Seekers** – JavaScript escape room mini-game  
-- 🌿 **Listok Construction Company** – Responsive website, branding, and digital presence  
+- 🌿 **Listog Construction Company** – Responsive website, branding, and digital presence  
 - 💻 **Academic IT Projects** – system operations & troubleshooting  
 
 ---
@@ -34,3 +34,5 @@ I focus on building responsive websites, learning IT system operations, and deve
 - IT system administration & infrastructure  
 
 ---
+## 🌍 Languages  
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-blue?style=for-the-badge&logo=google-translate&logoColor=white)  ![Russian](https://img.shields.io/badge/Russian-Native-red?style=for-the-badge&logo=google-translate&logoColor=white)  ![English](https://img.shields.io/badge/English-Upper--Intermediate-green?style=for-the-badge&logo=google-translate&logoColor=white)  ![Norwegian](https://img.shields.io/badge/Norwegian-Intermediate-yellow?style=for-the-badge&logo=google-translate&logoColor=white)  
