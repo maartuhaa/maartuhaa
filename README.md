@@ -1,61 +1,44 @@
 # 👋 Hi, I'm Marta  
 
-💻 **Web Development & IT Student** | 🎨 **Digital Creator** | 🌍 Based in Norway  
+💻 **IT & Web Development Student** | 🌍 Norway  
 
-I’m passionate about **web development, IT operations, and creative digital projects**. I enjoy combining technical skills with design and media production to create modern, user-friendly solutions. Currently studying **Information Technology (Web Development & Drift/Operations)** at Kuben VGS, while also building real projects like websites, branding, and digital content.  
+Currently studying **Information Technology (Web Development & Drift/Operations)** at **Kuben VGS**.  
+I focus on building responsive websites, learning IT system operations, and developing practical projects.  
 
 ---
 
 ## 🚀 Skills  
 
 ### 🌐 Web Development  
-- HTML, CSS, JavaScript  
-- Responsive design & GitHub Pages  
-- Simple web applications and interactive projects  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ### 🖥️ IT & Operations  
-- System administration basics  
-- Troubleshooting & infrastructure knowledge  
-- Drift (operations) focus from IT studies  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=telegraph&logoColor=white)  
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-FF6F00?style=for-the-badge&logo=icloud&logoColor=white)  
 
-### 🎨 Design & Media  
-- Adobe Photoshop, InDesign  
-- Premiere Pro, CapCut (video editing)  
-- Branding, logo design, content creation  
-
-### 🤖 AI Tools  
-- MidJourney (visuals)  
-- Suno (music)  
-- Pixverse.ai (video)  
-- AI Creator by Alpi *(certificate available)*  
-
-### 🗣️ Languages  
-- Ukrainian 🇺🇦 – Native  
-- Russian 🇷🇺 – Native  
-- English 🇬🇧 – Upper-Intermediate  
-- Norwegian 🇳🇴 – Intermediate  
+### 🤖 AI & Tools  
+![AI Creator](https://img.shields.io/badge/AI%20Creator%20by%20Alpi-8A2BE2?style=for-the-badge&logo=sparkles&logoColor=white)  
+![MidJourney](https://img.shields.io/badge/MidJourney-000000?style=for-the-badge&logo=magic&logoColor=white)  
+![Suno](https://img.shields.io/badge/Suno-FF4088?style=for-the-badge&logo=music&logoColor=white)  
+![Pixverse](https://img.shields.io/badge/Pixverse.ai-1E90FF?style=for-the-badge&logo=video&logoColor=white)  
 
 ---
 
 ## 📂 Projects  
-- **Treasure Seekers** – JavaScript mini-game (escape room style)  
-- **Listok Construction Company** – Responsive website, branding, and Instagram content  
-- Personal projects in **web, media, and AI creation**  
+- 🎮 **Treasure Seekers** – JavaScript escape room mini-game  
+- 🌿 **Listok Construction Company** – Responsive website, branding, and digital presence  
+- 💻 **Academic IT Projects** – system operations & troubleshooting  
 
 ---
 
 ## 🌱 Currently Learning  
-- Advanced web development (React, Node.js basics)  
-- IT operations & system management  
-- Expanding creative projects with AI tools  
+- React basics  
+- Node.js fundamentals  
+- IT system administration & infrastructure  
 
 ---
-
-## 📫 Contact  
-- ✉️ *your.email@example.com*  
-- 🌐 *[Portfolio Website]*  
-- 🔗 *[LinkedIn / Instagram link]*  
-
----
-
-✨ *Always open to collaboration on creative and tech projects!*  
