@@ -20,8 +20,7 @@ I focus on building responsive websites, learning IT system operations, and deve
 ![AI Creator](https://img.shields.io/badge/AI%20Creator%20by%20Alpi-8A2BE2?style=for-the-badge&logo=sparkles&logoColor=white) ![MidJourney](https://img.shields.io/badge/MidJourney-000000?style=for-the-badge&logo=magic&logoColor=white) ![Suno](https://img.shields.io/badge/Suno-FF4088?style=for-the-badge&logo=music&logoColor=white) ![Pixverse](https://img.shields.io/badge/Pixverse.ai-1E90FF?style=for-the-badge&logo=video&logoColor=white)  
 
 ### 🎨 Adobe Creative Cloud  
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)  
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white) ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere&logoColor=white) 
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)  ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white) ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere&logoColor=white) 
 
 ---
 
