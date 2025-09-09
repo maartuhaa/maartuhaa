@@ -1,11 +1,10 @@
 <h1 align="center"> # 👋 Hi, I'm Marta  </h1>
 <p align="center">
 💻 **IT & Web Development Student** | 🌍 Norway  
-</p>
 
 Currently studying **Information Technology (Web Development & Drift/Operations)** at **Kuben VGS**.  
 I focus on building responsive websites, learning IT system operations, and developing practical projects.  
-
+</p>
 ---
 
 ## 🚀 Skills  
