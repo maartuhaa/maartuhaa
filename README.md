@@ -2,10 +2,10 @@
 <p align="center">
 💻 **IT & Web Development Student** | 🌍 Norway  
 </p>
-<p align="center">
+
 Currently studying **Information Technology (Web Development & Drift/Operations)** at **Kuben VGS**.  
 I focus on building responsive websites, learning IT system operations, and developing practical projects.  
-</p>
+
 
 
 ## 🚀 Skills  
